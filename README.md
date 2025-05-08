@@ -9,4 +9,6 @@ The dataset doesn’t have any feature that shows the difference between the res
 3. distance between the restaurant and the delivery location
 <br>
 To predict the food delivery time in real time, you need to calculate the distance between the food preparation point and the point of food consumption. After finding the distance between the restaurant and the delivery locations, you need to find relationships between the time taken by delivery partners to deliver the food in the past for the same distance.
+
 # Contributing
+If you are interested in contributing to the project, please create a fork of the repository and submit a pull request. All contributions are welcome and appreciated.
